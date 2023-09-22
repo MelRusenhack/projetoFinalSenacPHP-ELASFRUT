@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;  
+}
+a {
+    text-decoration: none;
+}
+.nav-lateral{
+    height: 100%;
+    width: 250px;
+    background-color:#3B8A72;
+    position: fixed;
+    border-right: 3px solid #915AC3;
+ 
+}
+.text-nav-lateral{
+color: white;
+font-size: 20px;
+display: block;
+padding: 12px 10px 12px 32px;
+
+}
+.text-nav-lateral:hover{
+background-color: rgba(255, 255, 255, 0.623);
+color: #915AC3;
+}
+
+.navbar{
+background-color: #3B8A72;
+border-bottom: 3px solid#915AC3;
+
+}
+.btn-pesquisa{
+    text-align: center;
+    margin: 100px;
+}
+.btn-pesquisa input{
+   height: 40px ;
+    width: 400px;
+    background: #683ab767;
+    border: 1px solid #915AC3;
+    border-radius: 6px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    outline: none;
+
+}
+.btn-pesquisa a{
+    position: absolute;
+    height: 40px;
+    width: 50px;
+    font-size: 20px;
+    color: #ddd6d6;
+    cursor: pointer;
+    background-color:#915AC3;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.page-link{
+    color: #673ab7;   
+}
+.page-link:hover{
+    color: #ffffff;
+    background-color:#915AC3;   
+}
+.btn{
+    background:#915AC3;
+    color: #ffffff;
+}
+.btn:hover{
+    background: #f8f7f8;
+    border: 1px solid #915AC3 ;
+    color: #915AC3;
+}
+.main{
+    margin-left: 300px;
+    margin-right: 100px;
+    overflow: hidden;
+}
+
+/* Pagina Termo de Uso*/
+
+.termo-uso{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;  
+}
+
+footer{
+    position: fixed;
+    background-color: #3B8A72;
+    border-top: 3px solid #915AC3;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

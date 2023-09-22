@@ -1,0 +1,177 @@
+/* index menu */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    padding: 0;
+    background-color:  #3B8A72;
+    border-bottom: 3px solid#915AC3;
+   
+   
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+.bg{
+    background-color: #915AC3;
+}
+
+nav .nav-item a:hover{
+    color:#915AC3 !important
+    
+}
+
+    /* Carrosel */
+    .faca-mais .container{
+        display: flex;
+        align-items: center;
+        margin-top: 150px;
+        margin-bottom: 100px;
+    }
+    .faca-mais .faca-mais-text{
+    width: 50%;
+    padding: 0 40px;
+    }
+    .faca-mais .faca-mais-text h3{
+        font-size: 56px;
+    }
+    .faca-mais .faca-mais-text p{
+        margin: 5px 0 10px 0;
+    }
+    .faca-mais .faca-mais-img{
+        width: 50%;
+    }
+    .faca-mais .faca-mais-img img{
+    width: 100%;
+    }
+    .btn{
+        width: 250px;
+        height: 50px;
+        background-color: #915AC3;
+        color: aliceblue;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    /* mandar msg */
+
+    .bg{
+        background-color: #915AC3;
+    }
+
+    /* sobre */
+   
+    .sobre-nos{
+        background-color: #3B8A72;
+        
+    }
+    .bg-dark{
+        margin-bottom: 100px;
+    }
+    .sobre-nos .container{
+        display: flex;
+        align-items: center;
+        margin-top: 150px;
+       
+    }
+    .sobre-nos .sobre-texto{
+    width: 50%;
+    padding: 0 40px;
+    }
+    .sobre-nos .sobre-texto h3{
+        font-size: 56px;
+        color: white;
+    }
+    .sobre-nos .sobre-texto p{
+        margin: 5px 0 10px 0;
+        color: white;
+    }
+    .sobre-nos .sobre-img{
+        width: 50%;
+    }
+    .sobre-nos .sobre-img img
+    {
+    width: 100%;
+   
+    }
+
+    /* Pagina Contato */
+.contato-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.contato-info .left-box{
+    width: 50%;
+    padding: 30px;
+    background-color: #915AC3;
+    border-radius: 14px;
+    margin-right: 50px;
+    height: fit-content;
+
+}
+.contato-info .left-box div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.contato-info .left-box div i{
+   font-size: 24px;
+   margin-left: 20px;
+   margin-right: 20px;
+   color: white;
+}
+.contato-info .left-box div p{
+    font-size: 17px;
+    color: white;
+ }
+ .contato-info .right-box{
+    width: 50%;
+ }
+ .contato-info .right-box input{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 47px;
+    padding: 15px;
+    border-radius: 9px;
+    transition: 0.3s;
+    border: 1px solid #915AC3;
+    color: #3B8A72;
+    font-weight: lighter;
+
+ }
+ .contato-info .right-box textarea{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 9px;
+    transition: 0.3s;
+    border: 1px solid #915AC3;
+    color: black;
+ }
+ .contato-info .right-box button{
+   border: none;
+   margin-bottom: 50px;
+
+ }
+ .contato-info .right-box button:hover{
+    border: 1px solid #915AC3;
+
+    
+ 
+  }
+
+    .footer{
+        border-top: 3px solid#915AC3;
+        background-color:  #3B8A72;
+        text-align: center;
+        color: white;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+       
+    }
