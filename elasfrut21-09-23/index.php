@@ -155,9 +155,9 @@
                             </h3>
 
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero tempora dolores, sequi praesentium fugit quibusdam.
+                                Explore nossa lista de fornecedores e encontre as melhores opções para suas necessidades. Conecte-se com qualidade e eficiência em um só lugar!
                             </p>
-                            <a href="#" class="btn btn-info">Saiba mais</a>
+                            <a href="listafornecedores.php" class="btn btn-info">Saiba mais</a>
                         </div>
                     </div>
                 </div>
@@ -174,9 +174,9 @@
                             </h3>
 
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero tempora dolores, sequi praesentium fugit quibusdam.
+                                Explore a frescura da natureza em nossa lista de produtos de hortifruti. Delicie-se com a variedade e qualidade que temos a oferecer!
                             </p>
-                            <a href="#" class="btn btn-info">Saiba mais</a>
+                            <a href="listaprodut.php" class="btn btn-info">Saiba mais</a>
                         </div>
                     </div>
                 </div>
@@ -193,9 +193,9 @@
                             </h3>
 
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero tempora dolores, sequi praesentium fugit quibusdam.
+                                Junte-se a nós e faça parte da nossa seleção de fornecedores de hortifruti! Semeie parcerias de sucesso e colha oportunidades incríveis conosco!
                             </p>
-                            <a href="#" class="btn btn-info">Saiba mais</a>
+                            <a href="cadfo.php" class="btn btn-info">Saiba mais</a>
                         </div>
                     </div>
                 </div>

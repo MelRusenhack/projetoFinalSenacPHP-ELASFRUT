@@ -65,7 +65,7 @@ $qry = mysqli_query($mysqli,$sql);
 
     <form action="">
         <div class="btn-pesquisa">
-            <input name="busca" type="text" placeholder="Pesquisar">
+            <input name="busca" type="text" placeholder="Pesquisar" class="pesqui">
             <button type="submit " class="lupa"><i class="bi bi-search"></i></button>
         </div> 
     </form>
